@@ -106,7 +106,7 @@ Once satisfied with the content and relevance of your knowledge base, you can pr
 
 1. Record the information displayed in the **Sample HTTP request** section. This information will be used to validate your service.
 
-1. In your browser, navigate to **Hurl.it**: <https://www.hurl.it/>.
+1. In your browser, navigate to **Hurl.it**: <https://www.hurl.it/> (the website does not seem to work anymore), or **ExtendsClass.com**: <https://extendsclass.com/rest-client-online.html(tr>.
 
     ![Hurl.it](./media/hurlit.png)
 
